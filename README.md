@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ankit2540
-- 👀 I’m interested in front end web design. 
+- 👋 Hi, I’m Ankit Biswal
+- 👀 I’m interested in web design and development. 
 - 🌱 I’m currently learning MEAN & MERN Stack web development. 
 - 💞️ I’m looking to collaborate on web designing and development .
 - 📫 How to reach me email: ankitbiswal123@gmail.com, LinkedIn: linkedin.com/ankit2540
